@@ -39,3 +39,15 @@ h1 {
     font-size: 5rem;
     margin: 30px 0;
 }
+
+.greenText{
+    color: rgb(79, 250, 79);
+}
+
+.redText{
+    color: rgb(255, 66, 66);
+}
+
+.blackText{
+    color: black;
+}
